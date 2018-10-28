@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="texto_pergunta1">Questão 1: Digite o valor de x que satisfaz a equação 4x + 2(7+3x) = 34.</string>
+    <string name="texto_pergunta2">Questão 2:Um veículo percorre 420 km em 6 horas. Qual é a velocidade média do veículo?</string>
+    <string name="radio_escolha2.1">10km/h</string>
+    <string name="radio_escolha2.2">30km/h</string>
+    <string name="radio_escolha2.3">70km/h</string>
+    <string name="radio_escolha2.4">100km/h</string>
+    <string name="texto_pergunta3">Questão 3: Qual é o valor de x que satisfaz a inequação 10x - 3(20+2x) > 0?</string>
+    <string name="radio_escolha3.1">x>5</string>
+    <string name="radio_escolha3.2">x>10</string>
+    <string name="radio_escolha3.3">x>15</string>
+    <string name="radio_escolha3.4">x>20</string>
+    <string name="texto_pergunta4">Questão 4: Um veículo cuja velocidade média é 30km/h leva quantas horas para percorrer 300km?</string>
+    <string name="radio_escolha4.1">4h</string>
+    <string name="radio_escolha4.2">6h</string>
+    <string name="radio_escolha4.3">8h</string>
+    <string name="radio_escolha4.4">10h</string>
+    <string name="texto_pergunta5">Questão 5: Qual são os valores de x que satisfaz a equação 2x(5+2x) + 5 = 11?</string>
+    <string name="chebox_escolha5.1">-6</string>
+    <string name="chebox_escolha5.2">-3</string>
+    <string name="chebox_escolha5.3">0,5</string>
+    <string name="chebox_escolha5.4">2</string>
+    <string name="botao_verificar_respostas">Verificar respostas</string>
+</resources>
